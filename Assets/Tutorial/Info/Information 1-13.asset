@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fc42407ff263cc40ab0e69e35f260ae, type: 3}
+  m_Name: Information 1-13
+  m_EditorClassIdentifier: 
+  title: Combat Basics - Part 2
+  image: {fileID: 0}
+  text: 'That meanie of a skeleton just attacked you! I can''t believe it!
+
+
+    Your
+    turns and the enemies'' turns alternate, no matter how many of you or them there
+    are. The characters whose turns are coming up are shown in the bottom left of
+    your screen - you can click on a portrait to see which character it corresponds
+    to.
+
+
+    You can look around at any time using the keys W, A, S and D.'
